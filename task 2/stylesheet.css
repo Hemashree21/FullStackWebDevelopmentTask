@@ -1,0 +1,250 @@
+html{
+  background-image: url('background\ photo.jpg');
+}
+.container{
+    width:87%;
+    height:82%;
+    position:absolute;
+    padding-top:50px;
+    padding-left:50px;
+    margin-top:30px;
+    margin-left:50px;
+    border:0.5px solid black;
+    background-color: #f7f7f7;
+}
+.left{
+    width:65%;
+    height:100%;
+    margin-left:-4.4%;
+    margin-top: 10px;
+}
+.box1{
+    width:97.7%;
+    height:20px;
+    padding-top:20px;
+    padding-left:30px;
+    margin-top:-40px;
+    position:absolute;
+    border-bottom:0.5px solid lightgrey;
+}
+#b1{
+    width:30px;
+    padding-left:-50px;
+    margin-top:-10px;
+    margin-left:-20px;
+}
+.b2{
+    
+    position:relative;
+    width:40%;
+    margin-left:100px;
+    margin-top:-20px;
+}
+#b3{
+    margin-left:95%;
+    margin-top:-20px;
+    position:absolute;
+    display:flex;
+}
+.box2{
+   
+    width:100%;
+    height:55px;
+    margin-top:-10px;
+ 
+    border-bottom:0.5px solid lightgrey;
+}
+#b4{
+    width:30px;
+    margin-left:10px;
+    padding-top:30px;
+}
+.box3{
+
+    position:absolute;
+    width:60.8%;
+    height:37%;
+    padding-top:20px;
+    padding-left:13px;
+    border-bottom: 0.5px solid lightgrey;
+}
+.top3{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#b5{
+   margin-top:7%;
+   margin-left:1.5%;
+   margin-bottom: 2000  px;
+
+}
+.box4{
+    display:flex;
+    width:56.8%;
+    height:41.5%;
+    margin-left:-60%;
+    margin-top:310px;
+    padding-top:20px;
+    padding-left:40px;
+    border-bottom:0.5px solid lightgrey;
+}
+.form{
+    padding-top: 50px;
+    margin-top:50px;
+    display:flex;
+    
+}
+.input-field{
+    margin-left:650px;
+    margin-top:-50px;
+}
+.input{
+    width:280px;
+    display:flex;
+    height:30px;
+    border-radius:5px;
+    padding-left:10px;
+    font-size:12px;
+    border:0.5px solid lightgrey;
+}
+.account_number{
+    margin-left:650px;
+    margin-top:-30px;
+}
+.b6{
+    margin-left:650px;
+    margin-top:-30px;
+    display:flex;
+    flex-direction:row;
+}
+.month{
+    width:130px;
+    height:30px;
+    border-radius:5px;
+    padding-left:10px;
+    font-size:12px;
+    border:0.5px solid lightgrey;
+}
+.year{
+    width:130px;
+    height:30px;
+    border-radius:5px;
+    padding-left:10px;
+    font-size:12px;
+    margin-left:10px;
+    border:0.5px solid lightgrey;
+}
+    
+.child{
+    margin-left:650px;
+    margin-top:30px;
+}
+.button{
+    width: 300px;
+    height: 35px;
+    cursor: pointer;
+    background-color: green;
+
+}
+.image1{
+   
+    padding-left:10px;
+    margin-top:-2px;
+    border-radius:20%;
+    border:1px;
+}
+
+.box5{
+    background-color:#f7f7f7;
+    height:75%;
+    width:39.5%;
+    margin-left:60.5%;
+    margin-top:-46%;
+    padding-top: 0px;
+    justify-content:flex-start  ;
+    padding-bottom: 30px;
+    float: right;
+}
+.mobile{
+    display:flex;
+    margin-top: -5px;
+    flex-direction:column;
+}
+#img1{
+    border:7px solid lightgrey;
+    margin-left:10px;
+    margin-top:15px;
+}
+#h1{
+    margin-top:15px;
+}
+#h2{
+    margin-top:30px;
+}
+#m1{
+    width:60%;
+    margin-left:23%;
+    margin-top:-60px;
+}
+#m2{
+    width:20px;
+    margin-left:23%;
+    margin-top:11px;
+}
+#m3{
+    width:30px;
+    margin-left:23%;
+    margin-top:-5px;
+}
+#m4{
+    margin-left:85%;
+    margin-top:-40px;
+}
+#img2{
+    border:7px solid lightgrey;
+    margin-top:2px;
+    margin-left:10px;
+}
+#img3{
+    border:7px solid lightgrey;
+    margin-top:4px;
+    margin-left:10px;
+}
+#img4{
+    border:7px solid lightgrey;
+    margin-top:2px;
+    margin-left:10px;
+}
+#h3{
+    margin-top:95px;
+}
+.long{
+    display:flex;
+    flex-direction:column;
+    margin-left:10px;
+    font-size:18px;
+}
+.short{
+    flex-direction:column;
+    margin-left:85%;
+    margin-top:-80px;
+    font-size:18px;
+}
+#s2{
+    margin-left:8px;
+}
+#s3{
+    margin-left:15px;
+}
+#long1{
+    margin-top:12px;
+    font-size:20px;
+    margin-left:10px;
+}
+#short1{
+    margin-left:85%;
+    margin-top:-15px;
+    font-size:18px;
+}
