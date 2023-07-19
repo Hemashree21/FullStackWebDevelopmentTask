@@ -1,0 +1,43 @@
+.container{
+	width: 800px;
+    box-shadow: 5px 5px 5px 2px gray;
+    height: 50px;
+	margin: 40px auto;
+	
+}
+.row1{
+	        border: 1px solid lightgray;
+			height: 24px;	
+			color: orangered;
+			display: flex;
+			align-items: center;
+}
+.row2{
+			border-left: 1px solid lightgray	; 
+			height: 24px;
+			color: orangered;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			padding-left: 10px;
+		}
+		.color{
+			background-color: lightgray;
+			width: 290px;
+			height: 25px;
+			color: orangered;
+            display: flex;
+		    align-items: center;
+		    padding-left: 10px;
+            
+		}
+		span:last-child{
+			margin-left: auto;
+            margin-right: 10px;
+		}
+		span{
+			margin-left: 10px;
+		}
+		.space{
+			margin-left: 80px;
+		}
