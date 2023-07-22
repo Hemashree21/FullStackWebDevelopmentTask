@@ -1,4 +1,9 @@
 body {
+  background-image: url('https://i.ibb.co/sCTLxWy/bg.jpg');
+  background-repeat: no-repeat;      
+  background-size: cover;
+}
+body {
         margin: 0;
         padding: 0;
       }
